@@ -7,6 +7,14 @@ Distance measurements are performed in **centimetres** on the microcontroller an
 
 ---
 
+## Demo
+
+![Arduino Ultrasonic Sonar Demo](media/sonar-demo.gif)
+
+▶️ **Full video:** [Watch the `.mov` demo](media/sonar-demo.mov)
+
+---
+
 ## System Summary
 - Servo-driven 180° sweep  
 - Ultrasonic distance measurement (**cm**)  
